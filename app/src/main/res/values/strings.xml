@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NewProject</string>
+    <string name="l">₹ 1.65 L</string>
+    <string name="ll">₹ 1.5 L</string>
+    <string name="invested">invested</string>
+    <string name="some_id">1.5%</string>
+    <string name="current">current</string>
+
+    <string name="watchlist">  Watchlist</string>
+    <string name="rewards"> Rewards </string>
+    <string name="portfolio"> Portfolio </string>
+    <string name="learn">Learn</string>
+    <string name="yay_you_des">Yay! You Deserve this</string>
+    <string name="today_s_exc">Today’s Exclusive Rewards</string>
+    <string name="amazon_com">AMAZON.COM</string>
+    <string name="x_cashback_">2x cashback\nup to 500</string>
+    <string name="text">Claim Reward</string>
+</resources>

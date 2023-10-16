@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <style android:name="watchlist">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="rewards">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</selector>
